@@ -1,0 +1,929 @@
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784', 'firstName': 'EDWIN'}
+image:  NAT_ID_256.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5478-0741-3649-1257', 'lastName': 'IBARRA', 'firstName': 'GILBOY', 'middleName': 'DELA', 'dateOfBirth': 'january 20, 1991'}
+image:  NAT_ID_313.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2758-4768-1032-8570', 'firstName': 'VOLTAIRE', 'middleName': 'SIBBALUCA', 'dateOfBirth': 'november 28 ,', 'Address': 'ZONE 5, HACIENDA INTAL, BAGGAO EAGAYAN PHL'}
+image:  NAT_ID_567(1).jpeg
+image:  NAT_ID_190.jpeg
+transportation
+It's driving lic.
+image:  NAT_ID_485.jpeg
+image:  NAT_ID_368.jpeg
+rotating image...
+3902-5068-9548-0710
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3902-5068-9548-0710', 'dateOfBirth': 'january 10, 1987', 'lastName': 'TERESITA'}
+image:  NAT_ID_387.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3610-8346-3143-0716', 'lastName': 'MACASILHIG', 'firstName': 'ARNELO', 'middleName': 'SALVERON', 'dateOfBirth': 'may 02, 1983', 'Address': 'PUROK 3, CARANOCHE: SANTA CAYALNA NEGROS ORIENTAL PHL E Jure 2021 79mus MALE Une Duzo/elood Tvpe UNKNOWN Valakadane Soi/maritol Status MARRIED Lutar nk Kapanganakanipiage of BuIh SANA CATALINA NECROS OPIENTAL If found; pleose retuin [o {heneorest PSA @ffice #mmp Ro/ pd'}
+image:  NAT_ID_104.jpeg
+6290-8374-9167-2689
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6290-8374-9167-2689', 'dateOfBirth': 'may 05, 1997'}
+image:  NAT_ID_554.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4508-6302-6016-8798', 'dateOfBirth': 'march 19, 1985', 'firstName': 'DIANA', 'middleName': 'PASTOR', 'Address': '32 COMEZ ST. BARANGAY D, TAYUG PANGASINAN PHL On & 1000 Dhne Tonf"'}
+image:  NAT_ID_411.jpeg
+rotating image...
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3701-8726-0861-2067', 'lastName': 'SORIANO', 'firstName': 'MARIEL', 'middleName': 'BARLAAN', 'dateOfBirth': 'july 09 1997', 'Address': 'SITIO CAGUIOA BAYAOAS, URBIZTONDO; PANGASINAN PHL'}
+image:  NAT_ID_295.jpeg
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '7827-6138-940714204', 'lastName': 'ELONA', 'middleName': 'LATORE', 'dateOfBirth': 'december 26,1969 Tirahan/', 'Address': 'PUROK 4 BOGNABONG CITY OF TABACO ALBAY PAL'}
+image:  NAT_ID_503.jpeg
+image:  NAT_ID_153.jpeg
+image:  NAT_ID_446.jpeg
+This is Multi-Purpose Cart
+image:  NAT_ID_283.jpeg
+image:  NAT_ID_329.jpeg
+8561-5962-5724-3516
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '8561-5962-5724-3516'}
+image:  NAT_ID_145.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3521-8239-4284-1072', 'firstName': 'MARY', 'middleName': 'PERILLO', 'dateOfBirth': 'january 16, 1980', 'Address': 'PUROK ABELLA; CITY OF LIGAO AEBAY Insert Home Nu Page '}
+image:  NAT_ID_515.jpeg
+catd
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5792-5615-3673-5127', 'middleName': 'PINEDA', 'dateOfBirth': 'SAN SIMON; PAMPANGA'}
+image:  NAT_ID_450.jpeg
+image:  NAT_ID_391.jpeg
+3143-5064-2591-8512
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3143-5064-2591-8512', 'dateOfBirth': 'march 07 '}
+image:  NAT_ID_542.jpeg
+4382-7006-4064-2861
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4382-7006-4064-2861', 'dateOfBirth': 'october 26, 1993'}
+image:  NAT_ID_112.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5286-9371-9037-9623', 'lastName': 'First', 'firstName': 'Name.', 'middleName': 'CAIN,', 'dateOfBirth': 'Weighl (kg1, Helgntlm]', 'Address': '556 ARKANSAS ST ERMITA MANILA Explration Date Agency Corfe 7-015932 2026/11/14 D29 Eyes Color BLACK Ons Condillans Gnn NONE EDGAR C/GALVANTE Assistary ecretary ta Signature of Licensee 44@ 4 c4l k cap'}
+image:  NAT_ID_407.jpeg
+image:  NAT_ID_470.jpeg
+6046-5254-3912-5419
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6046-5254-3912-5419', 'dateOfBirth': 'december 18,1979 ~Ukck'}
+image:  NAT_ID_165.jpeg
+image:  NAT_ID_535.jpeg
+4382-7006-4064-2861
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4382-7006-4064-2861', 'dateOfBirth': 'october 26, 1993'}
+image:  NAT_ID_309.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4368-2571-3014-8165', 'firstName': 'ROBERTO', 'middleName': 'TAMBOGON', 'dateOfBirth': 'POZORRUEIQ PANGASINAN M', 'Address': 'ZONE 4, ALIPANGPANG, POZORRUBIO, PANGASINAN PHL [ 29 NOVEMBER 2021 Kasarian  Sex MALE Uri ng Dugo/Blood Type Kalagayang Sibil/ Marital Status MARRIED Lugar ng Kapanganakan/Piace of Birth POZORRUEIQ PANGASINAN M found; please retutn [0 the neofest PSA Office An 0sa Bov,pn 210122655 fuls Klus Klus'}
+image:  NAT_ID_427.jpeg
+image:  NAT_ID_562.jpeg
+2053-8730-4672-9657
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2053-8730-4672-9657', 'firstName': 'Nadti', 'middleName': 'CANDANO', 'dateOfBirth': 'december 28, 1980', 'Address': 'PUROK 6, ESTANCIA MAUNAO ALBAY Republic Of The Philippines DEPARTMENT OF TRANSPORTATION LAND TRANSPORTATION Office PROFESSIONAL DRiVeR\'$ LICENSE Miaule Nadti MADURO, NELSON CANDANO Na teetaully Buc Izht (ri Hentctim PHL 1960/ 12/28 1,60 Ktdatnt 96 SAUYo ROAD NOVA SAUYO Quezon city Fmen Coda Nzo-10-0 /28 /5 2023/12/28 "BRAGk Culu Luk NONE EDCaR Yanie'}
+image:  NAT_ID_132.jpeg
+6347-6913-8962-1572
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6347-6913-8962-1572', 'dateOfBirth': 'december 18, 1960'}
+image:  NAT_ID_125(1).jpeg
+image:  NAT_ID_94.jpeg
+catd
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2972-8304-1673-4213', 'dateOfBirth': 'april 16, 1991'}
+image:  NAT_ID_431.jpeg
+8507-9408-1008-3628
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '8507-9408-1008-3628', 'dateOfBirth': 'december 16. 1972'}
+image:  NAT_ID_124.jpeg
+550]-8414-790}-6114
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '550]-8414-790}-6114'}
+image:  NAT_ID_574.jpeg
+6835-9471-6793-005]
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6835-9471-6793-005]', 'dateOfBirth': 'december 16, 1971'}
+image:  NAT_ID_348.jpeg
+image:  NAT_ID_82.jpeg
+6342-7196-4720-0662
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6342-7196-4720-0662', 'dateOfBirth': 'january 04,.1996 (ahuradder'}
+image:  NAT_ID_6.jpeg
+rotating image...
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784-6358-3671-854', 'middleName': 'APAL', 'dateOfBirth': 'november 17, 1977'}
+image:  NAT_ID_466.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6156-3804-9520-9364', 'firstName': 'CLAUDIA', 'middleName': 'PORMENTERA', 'dateOfBirth': 'february 27, 1995', 'Address': 'PUROK 5, OSMENA CLAVERIA; MASBATE PHL'}
+image:  NAT_ID_523.jpeg
+3410-2591-8742-7620
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3410-2591-8742-7620', 'dateOfBirth': 'april 05, 1973'}
+image:  NAT_ID_173.jpeg
+image:  NAT_ID_489.jpeg
+image:  NAT_ID_558.jpeg
+2634-9516-4201-8273
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2634-9516-4201-8273', 'dateOfBirth': 'may 2021 RazinaruIS~'}
+image:  NAT_ID_108.jpeg
+620+-1631-7614-0424
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '620+-1631-7614-0424', 'dateOfBirth': 'september 18, 1980'}
+image:  NAT_ID_364.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6089-7480-532742', 'lastName': 'BACANI', 'firstName': 'LEOVIC', 'middleName': 'FORTO', 'dateOfBirth': 'may 05, 1971', 'Address': 'PUROK 7B, BARANGAY DISTRICT 3 F UMAUINI; ISABELA'}
+image:  NAT_ID_221.jpeg
+rotating image...
+9527-2621-6885-9162
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '9527-2621-6885-9162'}
+image:  NAT_ID_41.jpeg
+rotating image...
+ijentificatiori
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784', 'firstName': 'EDWIN'}
+image:  NAT_ID_299.jpeg
+rotating image...
+5075-2081-7924-8732
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5075-2081-7924-8732', 'dateOfBirth': 'december 14, 1980', 'Address': 'PUROK 5 PALO MARIA; BONGABON NUEVA ECUA'}
+image:  NAT_ID_333.jpeg
+rotating image...
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6239-8148-5468-3192', 'lastName': 'ARANETA', 'middleName': 'cos', 'dateOfBirth': 'may 11,2001 Ananancdtg'}
+image:  NAT_ID_16.jpeg
+rotating image...
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784-6358-3671-854', 'middleName': 'APAL', 'dateOfBirth': 'november 17, 1977'}
+image:  NAT_ID_276.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6478-4584-2806-1256', 'firstName': 'MARIVIC', 'middleName': 'TEMPORADO', 'dateOfBirth': 'october 06, 1977', 'Address': 'PUROK 7 GATE BULAN; SORSOGON'}
+image:  NAT_ID_519.jpeg
+image:  NAT_ID_149.jpeg
+image:  NAT_ID_325.jpeg
+[dentlficatian
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5827-6286-4367-4109', 'dateOfBirth': 'august 05, 1983'}
+image:  NAT_ID_260.jpeg
+rotating image...
+4703-9829-5269-j400
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4703-9829-5269-J400', 'dateOfBirth': 'november 12, 1072'}
+image:  NAT_ID_372.jpeg
+image:  NAT_ID_57.jpeg
+image:  NAT_ID_237.jpeg
+5863-5043-0751-4906
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5863-5043-0751-4906', 'dateOfBirth': 'march 22, 1979'}
+image:  NAT_ID_373.jpeg
+2659-1058-7094-5219
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2659-1058-7094-5219', 'dateOfBirth': 'july 16. 1979'}
+image:  NAT_ID_56.jpeg
+2857-2076-3249-1386
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2857-2076-3249-1386', 'dateOfBirth': 'july 08, 1997'}
+image:  NAT_ID_236.jpeg
+rotating image...
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6089-1829-3869-5840', 'lastName': 'GATONGAY', 'firstName': 'SHEREEN', 'middleName': 'Retsa', 'dateOfBirth': 'january 30, 1997', 'Address': 'MABAGA, RIZAL, GUBAT , SORSOGON PHL'}
+image:  NAT_ID_324.jpeg
+image:  NAT_ID_261.jpeg
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6517-9253-7136-8301', 'firstName': 'RODEL', 'middleName': 'GARCHITORENA', 'dateOfBirth': 'november 19,1977 Ttahan/', 'Address': 'ZONE 6 VINAGRE TIGAON CAMARINES SUR PHL'}
+image:  NAT_ID_518.jpeg
+image:  NAT_ID_148.jpeg
+6290-5423-1082-7165
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6290-5423-1082-7165', 'dateOfBirth': 'december 25, 1979'}
+image:  NAT_ID_298.jpeg
+image:  NAT_ID_332.jpeg
+rotating image...
+image:  NAT_ID_17.jpeg
+rotating image...
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784-6358-3671-854', 'middleName': 'APAL', 'dateOfBirth': 'november 17, 1977'}
+image:  NAT_ID_277.jpeg
+4698-0561-3689-5094
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4698-0561-3689-5094', 'firstName': 'Me?', 'dateOfBirth': 'CABATUAN ISABELA If'}
+image:  NAT_ID_365.jpeg
+2493-1685-3843-5921
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2493-1685-3843-5921', 'dateOfBirth': 'september 21, 1978'}
+image:  NAT_ID_220.jpeg
+image:  NAT_ID_40.jpeg
+rotating image...
+ijentificatiori
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784', 'firstName': 'EDWIN'}
+image:  NAT_ID_559.jpeg
+rotating image...
+3749-2086-0198-5302
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3749-2086-0198-5302', 'dateOfBirth': 'october 30 1985'}
+image:  NAT_ID_109.jpeg
+rotating image...
+6124-8964-9342-1620
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6124-8964-9342-1620', 'dateOfBirth': 'march 24,2000 Phl'}
+image:  NAT_ID_467.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6256-3147-3683-7694', 'firstName': 'JENIFER', 'middleName': 'AQUINO', 'dateOfBirth': 'august 14, 1976', 'Address': 'PUROK 5, BIBICLAT, CUYAPO. NUEVA ECIJA'}
+image:  NAT_ID_522.jpeg
+6902-5049-6120-1931
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6902-5049-6120-1931', 'dateOfBirth': 'april 12. 1992'}
+image:  NAT_ID_172.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6426-8305-6320-6219', 'lastName': 'PANGILINAN', 'firstName': 'ARIEL', 'middleName': 'SULIT', 'dateOfBirth': 'may 29, 1968', 'Address': '215 PUROK 5, BULUALTO, SAN MIGUEL, BULACAN'}
+image:  NAT_ID_488.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '483-9718-2059-6193', 'firstName': 'AGUSTIN', 'middleName': 'BELLEZA', 'dateOfBirth': 'february 08, 1979'}
+image:  NAT_ID_83.jpeg
+image:  NAT_ID_349.jpeg
+image:  NAT_ID_7.jpeg
+rotating image...
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784-6358-3671-854', 'middleName': 'APAL', 'dateOfBirth': 'november 17, 1977'}
+image:  NAT_ID_430.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3172-6136-9327-6407', 'firstName': 'ALIMAR', 'middleName': 'ATO', 'dateOfBirth': 'july 2021 Kasarian/Sex'}
+image:  NAT_ID_125.jpeg
+image:  NAT_ID_575.jpeg
+image:  NAT_ID_95.jpeg
+image:  NAT_ID_426.jpeg
+image:  NAT_ID_563.jpeg
+idemtification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2078-1327-0218-3016', 'lastName': 'BOSITO', 'firstName': 'SHIELA', 'middleName': 'LORICO', 'dateOfBirth': 'december 14, 1994', 'Address': 'PUROK 2, PAWA; CITY OF TABACO, ALBAY PHL'}
+image:  NAT_ID_133.jpeg
+image:  NAT_ID_308.jpeg
+image:  NAT_ID_471.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6508-146740389174582', 'lastName': 'COMPETENTE', 'firstName': 'BERNARD', 'dateOfBirth': 'august 28, 1996', 'Address': 'ZONE 5, TAGBONG PILl; CAMARINES SUR PrL OPPO A31 @Joanna_02'}
+image:  NAT_ID_164.jpeg
+image:  NAT_ID_534.jpeg
+4382-7006-4064-2861
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4382-7006-4064-2861', 'dateOfBirth': 'october 26, 1993'}
+image:  NAT_ID_543.jpeg
+4382-7006-4064-2861
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4382-7006-4064-2861', 'dateOfBirth': 'october 26, 1993'}
+image:  NAT_ID_113.jpeg
+image:  NAT_ID_406.jpeg
+image:  NAT_ID_390.jpeg
+2896-4719-0623-5407
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2896-4719-0623-5407', 'dateOfBirth': "'DECEMBER 31.1991 hanladdra"}
+image:  NAT_ID_144.jpeg
+card"
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5215-8610.7913-9038', 'firstName': 'Joy', 'dateOfBirth': 'november 19, 1988'}
+image:  NAT_ID_514.jpeg
+6702-6018-jo7a-6127
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6702-6018-Jo7a-6127', 'dateOfBirth': 'march 28 1993'}
+image:  NAT_ID_451.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3108-1743-7193-0294', 'lastName': 'IBANEZ', 'firstName': 'EMILY', 'middleName': 'ASUELA', 'dateOfBirth': 'january 28, 1964', 'Address': '~LINDOGAN STREET BAYBAYDAGAT POB . SAN FERNANDO MASBATE PHL'}
+image:  NAT_ID_282.jpeg
+image:  NAT_ID_328.jpeg
+8561-5962-5724-3516
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '8561-5962-5724-3516'}
+image:  NAT_ID_502.jpeg
+6518-4975-2462-0589
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6518-4975-2462-0589', 'dateOfBirth': 'september 01, 1995', 'lastName': 'ILOCOS'}
+image:  NAT_ID_152.jpeg
+3723-5739-8029-6856
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3723-5739-8029-6856', 'dateOfBirth': 'february 25, 1978', 'Address': 'PUROK 2, SANTIAGO; QUIRINO, ISABEL 4 PHL d ~i'}
+image:  NAT_ID_447.jpeg
+This is Multi-Purpose Cart
+image:  NAT_ID_294.jpeg
+rotating image...
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3481-9061-4584-2376', 'lastName': 'MAGSINO', 'firstName': 'RUEL', 'middleName': 'MARTHIA', 'dateOfBirth': 'september 18, 1992', 'Address': 'PUROK 6, SANTA ISABEL SUR CITY ILAGAN; ISABELA'}
+image:  NAT_ID_105.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2390-8916-8542-8702', 'lastName': 'PADZA', 'firstName': 'SITTIE', 'middleName': 'PADZA', 'dateOfBirth': 'august 24, 1994', 'Address': 'PRAn43 BLOCK 20, 37.IB,FATIMA, CITZOF GENERAL SANTOS, SOUTH COTABATO Kuk'}
+image:  NAT_ID_555.jpeg
+image:  NAT_ID_410.jpeg
+3140-8920-5963-0730
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3140-8920-5963-0730', 'dateOfBirth': 'december 29, 2000'}
+image:  NAT_ID_369.jpeg
+image:  NAT_ID_386.jpeg
+image:  NAT_ID_191.jpeg
+image:  NAT_ID_484.jpeg
+image:  NAT_ID_37.jpeg
+rotating image...
+ijentificatiori
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784', 'firstName': 'EDWIN'}
+image:  NAT_ID_257.jpeg
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4615-4752-0379-1835', 'firstName': 'Noma', 'dateOfBirth': 'july 2021 FEMALE'}
+image:  NAT_ID_312.jpeg
+5748-2963-4158-6218
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5748-2963-4158-6218', 'dateOfBirth': 'june 30, 1998'}
+image:  NAT_ID_596.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4795-8418-3904-8264', 'middleName': 'PACANO', 'dateOfBirth': 'december 24, 1998'}
+image:  NAT_ID_579.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3751-8395-6920-3170', 'firstName': 'JUNEL', 'middleName': 'BANDONG', 'dateOfBirth': 'ZONE Zoiery -8afij-PARADA'}
+image:  NAT_ID_129.jpeg
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '8', 'firstName': '1', 'middleName': '+', 'dateOfBirth': 'july 18, 1982', 'Address': 'PUROK 01, AURORA WEST , DIFFUNQUIRINO PHL'}
+image:  NAT_ID_200.jpeg
+identilicatlon
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5286-3180-1793-6912', 'firstName': 'JOHN', 'dateOfBirth': 'august 31, 2000', 'Address': 'PUROK 9 MABUHAY CITY QF VALENCIA, BUKIDNON 7'}
+image:  NAT_ID_60.jpeg
+identilication
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5326-3802-3715-0814', 'firstName': 'REYNALDO', 'middleName': 'PARINGIT', 'dateOfBirth': 'february 07 ,', 'lastName': 'PANGASINAN'}
+image:  NAT_ID_345.jpeg
+image:  NAT_ID_580.jpeg
+7970-8170-6972-4968
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '7970-8170-6972-4968', 'firstName': '.', 'middleName': 'BADIAN', 'dateOfBirth': 'march 02, 1985'}
+image:  NAT_ID_76.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4687-0364-1350-9425', 'lastName': 'ENRIQUEZ', 'firstName': 'Wiatle', 'dateOfBirth': 'june 06, 1989'}
+image:  NAT_ID_216.jpeg
+image:  NAT_ID_99.jpeg
+image:  NAT_ID_353.jpeg
+image:  NAT_ID_187.jpeg
+6403-7068-2714-2607
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6403-7068-2714-2607', 'dateOfBirth': 'july 03, 1975'}
+image:  NAT_ID_538.jpeg
+4382-7006-4064-2861
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4382-7006-4064-2861', 'dateOfBirth': 'october 26, 1993'}
+image:  NAT_ID_168.jpeg
+image:  NAT_ID_492.jpeg
+2801-5486-2539-7635
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2801-5486-2539-7635', 'dateOfBirth': 'september 24,1969 Tirahan/Address', 'Address': 'PUROK BAUTISTA SANPEDRO; GENERAL TINIO; NUEVA ECIJA PHL'}
+image:  NAT_ID_241.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': 'rpes', 'firstName': 'RUBILYN', 'middleName': 'DELA', 'dateOfBirth': 'BAUTISTA PANGASINAN 6icund', 'lastName': 'DANGASINAN'}
+image:  NAT_ID_21.jpeg
+rotating image...
+ijentificatiori
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784', 'firstName': 'EDWIN'}
+image:  NAT_ID_304.jpeg
+identilicatlon
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5286-3180-1793-6912', 'firstName': 'JOHN', 'dateOfBirth': 'august 31, 2000', 'Address': 'PUROK 9 MABUHAY CITY QF VALENCIA, BUKIDNON 7'}
+image:  NAT_ID_476.jpeg
+rotating image...
+5371-6752-1870-1984
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5371-6752-1870-1984', 'dateOfBirth': 'february 03, 4973'}
+image:  NAT_ID_163.jpeg
+image:  NAT_ID_499.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4901-7219-5893-4156', 'lastName': 'ROBENIOL', 'firstName': 'NAPOLEON', 'middleName': 'GALIMA', 'dateOfBirth': 'june 24 1968', 'Address': 'PUROK 5, LAWAK, TAYUG, PANGASINAN PAL'}
+image:  NAT_ID_533.jpeg
+4382-7006-4064-2861
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4382-7006-4064-2861', 'dateOfBirth': 'october 26, 1993'}
+image:  NAT_ID_421.jpeg
+5146-1392-7603-0750
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5146-1392-7603-0750', 'dateOfBirth': 'july 21, 1994'}
+image:  NAT_ID_564.jpeg
+image:  NAT_ID_134.jpeg
+image:  NAT_ID_92.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3813-0760-17524512', 'lastName': 'ACOSTA', 'firstName': 'FLOSERPIDA', 'middleName': 'LABSANG', 'dateOfBirth': 'SANTA TERESITA: CAGAYAN', 'Address': 'PuRor TiduyoG SIMPATUYO Se4TA TERESITA CAGAYAN PNL Joe (acx [ax& Naw DR packakaloob/Dute oFksue 119 JUNE 2021 Kasarian Sexc FEMALE Uri ng Dugo/Blood Type 0 Kalagayang Sibil/Marital Status MARRIED Lugar ng Kapanganakan/Prace of Birth SANTA TERESITA: CAGAYAN If found;, pleose return t0 [he nearest PSA Office: WWW psa Eov-ph 2140319638'}
+image:  NAT_ID_358.jpeg
+image:  NAT_ID_437.jpeg
+4387-4531-6798-0621
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4387-4531-6798-0621', 'middleName': 'GARCIA', 'dateOfBirth': 'august 01,1984 Tirahan/Address', 'Address': 'PUROK 3, SAN JOSE, JAEN; NUEVA ECIJA wLa  ."1 7\' / `  Fw Ae   AA   Keew'}
+image:  NAT_ID_122.jpeg
+550]-8414-790}-6114
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '550]-8414-790}-6114'}
+image:  NAT_ID_572.jpeg
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4521-4394-2913-5720', 'firstName': 'RODRIGO', 'middleName': 'REYES'}
+image:  NAT_ID_126(1).jpeg
+4439-1500-8840-2112
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4439-1500-8840-2112', 'dateOfBirth': 'august 15. 1988'}
+image:  NAT_ID_84.jpeg
+5920-4790-5780-7295
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5920-4790-5780-7295', 'dateOfBirth': 'august 15.2000 JuanIVAjdrcut'}
+image:  NAT_ID_460.jpeg
+4103-7142-1835-0498
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4103-7142-1835-0498', 'dateOfBirth': 'september 14. 1969'}
+image:  NAT_ID_525.jpeg
+rotating image...
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '9280-3462-4815-8218', 'lastName': 'VILLAFLORES', 'firstName': 'KIMBERLY', 'middleName': 'ORTIZ', 'dateOfBirth': 'may 12, 1992', 'Address': 'ZONE 2, MAMPIRAQ SAN JOSE, CAMARINES SUR'}
+image:  NAT_ID_175.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4719-2689-0539-1724', 'lastName': 'MARIQUIT', 'dateOfBirth': 'may 30, 2001'}
+image:  NAT_ID_319.jpeg
+7324-605}-0927-4065
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '7324-605}-0927-4065', 'dateOfBirth': 'april Jo, 1990'}
+image:  NAT_ID_362.jpeg
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4179-8136-8731-4261', 'dateOfBirth': 'august 02, 1994', 'Address': 'ZONE 6, AWALLAN BAGGAO CAGAYAN PHL'}
+image:  NAT_ID_227.jpeg
+image:  NAT_ID_47.jpeg
+rotating image...
+ijentificatiori
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784', 'firstName': 'EDWIN'}
+image:  NAT_ID_159.jpeg
+image:  NAT_ID_509.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '7394-1097-4371-6493', 'firstName': 'MARIA', 'middleName': 'PENA', 'dateOfBirth': 'may 10, 1985', 'Address': 'PUROK 2, BARIW, MALINAO; ALBAY PHL'}
+image:  NAT_ID_335.jpeg
+caud
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5063-5709-2519-7546', 'firstName': '*', 'dateOfBirth': 'POTOTAN ILOILO #fcund;'}
+image:  NAT_ID_10.jpeg
+rotating image...
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784-6358-3671-854', 'middleName': 'APAL', 'dateOfBirth': 'november 17, 1977'}
+image:  NAT_ID_270.jpeg
+image:  NAT_ID_323.jpeg
+image:  NAT_ID_289.jpeg
+image:  NAT_ID_266.jpeg
+rotating image...
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5270-1405-6807-6247', 'lastName': 'LARIOSA', 'firstName': 'MARIA', 'middleName': 'SABADO', 'dateOfBirth': 'june 03, 1989', 'Address': 'PUROK 2, MINANTE Il, CITY OF CAUA YAN; ISABELA PHL'}
+image:  NAT_ID_118.jpeg
+image:  NAT_ID_548.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6219-5497-185114304', 'lastName': 'MANAYOBA', 'firstName': 'MARILYN', 'middleName': 'NANALE', 'dateOfBirth': 'JELY 17 1968', 'Address': 'ZONE 1, BINOBONG PILI; CAMARINES SUR PHL'}
+image:  NAT_ID_374.jpeg
+rotating image...
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2362-5708-6985-4174', 'firstName': 'FREDDIE', 'dateOfBirth': 'december 04, 1989'}
+image:  NAT_ID_51.jpeg
+rotating image...
+ijentificatiori
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784', 'firstName': 'EDWIN'}
+image:  NAT_ID_231.jpeg
+image:  NAT_ID_246.jpeg
+image:  NAT_ID_26.jpeg
+rotating image...
+ijentificatiori
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784', 'firstName': 'EDWIN'}
+image:  NAT_ID_303.jpeg
+car
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3754-8314-5206-2932', 'dateOfBirth': 'july 22, 1988'}
+image:  NAT_ID_180.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2746-3152-8653-4726', 'lastName': 'SALVADOR', 'firstName': 'JOVIELYN', 'middleName': 'MERCADO', 'dateOfBirth': 'ABRIL 28, 1976', 'Address': "PUROK 2, BAGONG TANZA, AURORT Y ISABELA' PHL Scanned with CamScanner"}
+image:  NAT_ID_574(1).jpeg
+6835-9471-6793-005]
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6835-9471-6793-005]', 'dateOfBirth': 'december 16, 1971'}
+image:  NAT_ID_495.jpeg
+image:  NAT_ID_71.jpeg
+image:  NAT_ID_211.jpeg
+image:  NAT_ID_354.jpeg
+transportation
+It's driving lic.
+image:  NAT_ID_587.jpeg
+3791-8563-0627-3907
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3791-8563-0627-3907', 'dateOfBirth': 'july 02, 1987'}
+image:  NAT_ID_138.jpeg
+rotating image...
+catd
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '854706-8019', 'dateOfBirth': 'september 25,1997 PHL'}
+image:  NAT_ID_568.jpeg
+care
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3712-9348-2605-2309', 'firstName': 'BALMORES', 'dateOfBirth': 'january 12, 1998', 'Address': 'SANCHEZ MIRA CAGAYAN PHL MB dtB ~idc-B'}
+image:  NAT_ID_207.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4195-8029-7287-3901', 'lastName': 'BRAGASIN', 'dateOfBirth': 'july 2021 nas;'}
+image:  NAT_ID_67.jpeg
+4098-3059-1524-8501
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4098-3059-1524-8501', 'dateOfBirth': 'april 28 1981'}
+image:  NAT_ID_88.jpeg
+This is Multi-Purpose Cart
+image:  NAT_ID_342.jpeg
+2650-3240-9731-8216
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2650-3240-9731-8216', 'dateOfBirth': 'june 20, 1987'}
+image:  NAT_ID_591.jpeg
+rotating image...
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5843-1564-9289-5073', 'lastName': 'CASTRO', 'firstName': 'MiCHELLE', 'dateOfBirth': 'september 18, 1982'}
+image:  NAT_ID_600.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3053-6948-3790-3864', 'lastName': 'BELGICA', 'firstName': 'MHAY', 'middleName': 'ABRAGAN', 'dateOfBirth': 'may 13, 1977', 'Address': 'ZONE 1, SAN RAMON; LAGONOY, CAMARINES SUR'}
+image:  NAT_ID_30.jpeg
+rotating image...
+ijentificatiori
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784', 'firstName': 'EDWIN'}
+image:  NAT_ID_250.jpeg
+transportation:
+It's driving lic.
+image:  NAT_ID_315.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2741-9051-4925-6807', 'lastName': 'DIMAYA', 'firstName': 'MELANIE', 'middleName': 'EBRIO', 'dateOfBirth': 'DINALUPIHAN; BATAAN Iffound;', 'Address': 'PUGARO; BALUNGAO PANGASINAN OCb Dor DecembeR 2021 Kasarian(Sex FEMALE Uri ng Dugo/Blood Type Kalagayang Sibil/ Marital Status  MARRIED Lugar ng Kapanganakan/Place of Birth DINALUPIHAN; BATAAN Iffound; please return t0 the nearest PSA Office www psa gov ph 241402388 Oldx-sr clor Chksx'}
+image:  NAT_ID_196.jpeg
+rotating image...
+image:  NAT_ID_179.jpeg
+image:  NAT_ID_483.jpeg
+cari
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4964-3879-2145-2413', 'dateOfBirth': 'february 2021, MALRSer'}
+image:  NAT_ID_529.jpeg
+4761-3082-4528-9370
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4761-3082-4528-9370', 'dateOfBirth': 'september 27. 1981'}
+image:  NAT_ID_381.jpeg
+37a2-1452-9859-1864
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '37a2-1452-9859-1864', 'dateOfBirth': 'december 0G, 1925'}
+image:  NAT_ID_102.jpeg
+image:  NAT_ID_552.jpeg
+rotating image...
+identitication
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '8791-2034-8624', 'dateOfBirth': 'december 16, 1995'}
+image:  NAT_ID_417.jpeg
+rotating image...
+(centlficufion
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6402-8941-8708-6579', 'dateOfBirth': 'april 17, 1982'}
+image:  NAT_ID_339.jpeg
+4079-3752-3627-1025
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4079-3752-3627-1025', 'dateOfBirth': 'october 18, 1980'}
+image:  NAT_ID_293.jpeg
+image:  NAT_ID_505.jpeg
+image:  NAT_ID_155.jpeg
+card;
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6319-6048-908243069', 'lastName': 'CioneRST', 'firstName': 'BERNARD', 'middleName': 'AZADA', 'dateOfBirth': 'july 19, 1990'}
+image:  NAT_ID_440.jpeg
+2019-2734-1290-8398
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2019-2734-1290-8398', 'dateOfBirth': 'may 04, 1971'}
+image:  NAT_ID_285.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4314-8350-2581-7429', 'lastName': 'GONZALES', 'firstName': 'SANNY', 'middleName': 'BLANCO', 'dateOfBirth': 'october 21 1973', 'Address': '691, TALIBAEW, CALASIAO, PANGASIHAN (o? zo/e 2 @( 0-7 ~k_'}
+image:  NAT_ID_143.jpeg
+card"
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5215-8610.7913-9038', 'firstName': 'Joy', 'dateOfBirth': 'november 19, 1988'}
+image:  NAT_ID_513.jpeg
+6702-6018-jo7a-6127
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6702-6018-Jo7a-6127', 'dateOfBirth': 'march 28 1993'}
+image:  NAT_ID_456.jpeg
+5791-4075-9042-1012
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5791-4075-9042-1012'}
+image:  NAT_ID_378.jpeg
+image:  NAT_ID_397.jpeg
+4623-0198-2149-5079
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4623-0198-2149-5079'}
+image:  NAT_ID_544.jpeg
+image:  NAT_ID_114.jpeg
+image:  NAT_ID_401.jpeg
+image:  NAT_ID_545.jpeg
+image:  NAT_ID_115.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2753-2094-5714-3849', 'lastName': 'VALDEZ', 'firstName': 'ELIZABETH', 'middleName': 'GALERA', 'dateOfBirth': 'november 2021 Kasarian/Sex', 'Address': 'PUROK 5, SAN MAXIMO; NATIVIDADZPANGASINAN PKL Araw nK pagkakaloob/Dote o Kue 05 NOVEMBER 2021 Kasarian/Sex FEMALE Url ng Dugo/Blood Type 0 Kalagayang Sibil/ Marital Status SINGLE Lugar ng Kapanganakar /Place o} Births NATIVIDAD, PANGASINAN 2 If found; pleose return t0 the nearest PSA Office: Mt psa gov ph 2140819926'}
+image:  NAT_ID_400.jpeg
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4934-6925-1380-6859', 'dateOfBirth': 'march 25,2000 PHL'}
+image:  NAT_ID_379.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '9235-7296-8193-8637', 'lastName': 'DACULAN', 'firstName': 'RISALDO', 'middleName': 'RIVAS', 'dateOfBirth': 'Wey 28, 1979', 'Address': 'PRK. DURIAN MAXIMINA; MAGUGPO AST, CITY OF TAGUM DAVAO DEL NORTE 9'}
+image:  NAT_ID_396.jpeg
+image:  NAT_ID_142.jpeg
+card"
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5215-8610.7913-9038', 'firstName': 'Joy', 'dateOfBirth': 'november 19, 1988'}
+image:  NAT_ID_512.jpeg
+6702-6018-jo7a-6127
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6702-6018-Jo7a-6127', 'dateOfBirth': 'march 28 1993'}
+image:  NAT_ID_457.jpeg
+ddentification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2154-0372-8451.2702', 'firstName': 'GREJAY', 'dateOfBirth': 'AuGUsT4g, 1983 anfAddrn'}
+image:  NAT_ID_284.jpeg
+image:  NAT_ID_575(1).jpeg
+image:  NAT_ID_504.jpeg
+4863-9605-2162-7685
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4863-9605-2162-7685'}
+image:  NAT_ID_154.jpeg
+identificatilon
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5637-4890-3601-8571', 'firstName': 'ARCHIE', 'middleName': 'TOLEDO', 'dateOfBirth': 'may 2011 MAdse'}
+image:  NAT_ID_441.jpeg
+2938-5026-4196-3107
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2938-5026-4196-3107', 'dateOfBirth': 'december 29 '}
+image:  NAT_ID_338.jpeg
+idemtilication
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4864-7960-1508-2395', 'firstName': 'Micdle:', 'middleName': 'MORALES', 'dateOfBirth': 'april 02, 2000', 'lastName': 'Lr'}
+image:  NAT_ID_292.jpeg
+idertification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4153-1268-9510-7569', 'middleName': 'VESCA', 'dateOfBirth': 'december 22, 1975', 'Address': "PUROK 22, ISing CARVEN DAVAO DEL NoRTE PHL 15 SEp)EMbER 1021 FEMALE UNKNOWN Wpe MARRIED Varital Stctus Luugra Kapjnrn4' es: Cily Of DAVAO DAVAO zeE Bath SUR Utound; please retum t3 te negres; PSA Offce Ka#E } ?9166 7tt"}
+image:  NAT_ID_103.jpeg
+image:  NAT_ID_553.jpeg
+rotating image...
+image:  NAT_ID_416.jpeg
+identilication
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2306-5316-0439-7617', 'firstName': 'MARCELO', 'dateOfBirth': 'april 05, 1982', 'Address': 'ZoNez VCTCRIA Cty 0F + 4heZs PANGASINAN Phi T 44 3AUGusT 2021 {aa2-[S2 MALE % 7 DJe3/ ce2 /38 MARRIED v% Liaa7 -8 *233*[278427/3igce %f ei7r CTCF; RCS 73;  " 2038 fe{U?0 % fre feres: 24 62 t=gjv2h 21E1183439 #-wtt Scanned with CamScanner'}
+image:  NAT_ID_380.jpeg
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4921-5607-4583-0689', 'dateOfBirth': 'january 141998 PHL'}
+image:  NAT_ID_197.jpeg
+image:  NAT_ID_178.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3479-8496-7594-2976', 'firstName': 'MARY', 'middleName': 'ERAS', 'dateOfBirth': 'PUROK %d3AFAQULAN; MILAGROS'}
+image:  NAT_ID_482.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3594-2139-2086-5807', 'lastName': 'PAMOTILLO', 'firstName': 'SAN', 'dateOfBirth': 'july 2021 KasariantSex', 'Address': 'Sitio PAHO; GINES NUEVO; SAN ENRIQUE. ILOILO 04 JULY 2021 KasariantSex MAE Uri Dugo/ Blood Type 0 3 Kal ranb Sibil Marital Status 4 # RIED KapanganakanalaghOfRloth 8 OF PASSI ILOILo 1 0 3 It fou pleam Talurnito the nearest PSA Onice WWWDSD GOv ph 1an7g9g1a ( 6p Scanred with CarnScanner (242'}
+image:  NAT_ID_528.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5308-6143-6759-2138', 'firstName': 'DIANA', 'middleName': 'CARABALLE', 'dateOfBirth': 'november 21, 1982', 'Address': 'M H; DEL PILAR; BAYAMBANG; PANCASINAN'}
+image:  NAT_ID_31.jpeg
+rotating image...
+ijentificatiori
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784', 'firstName': 'EDWIN'}
+image:  NAT_ID_251.jpeg
+image:  NAT_ID_314.jpeg
+image:  NAT_ID_590.jpeg
+image:  NAT_ID_206.jpeg
+image:  NAT_ID_66.jpeg
+image:  NAT_ID_57(1).jpeg
+image:  NAT_ID_343.jpeg
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5825-4873-0452-4602', 'dateOfBirth': 'january 09, 1973', 'Address': 'PURCK 3 PInTO, ALFONSO LISTA, IFUGAO, PINTO, ALFONSO LiSTA IFUGAO PHL Ac Mleaa~a Aletjava', 'lastName': 'PHL'}
+image:  NAT_ID_89.jpeg
+identilication
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2178-2453-6706-9428', 'dateOfBirth': '15,1980 PUROKAdaTUILiG Rox4S'}
+image:  NAT_ID_586.jpeg
+3791-8563-0627-3907
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3791-8563-0627-3907', 'dateOfBirth': 'july 02, 1987'}
+image:  NAT_ID_139.jpeg
+identificatlon
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5615-4205-9019-8163', 'dateOfBirth': 'september 25,1997 Tirahan/', 'Address': 'RIVERO ST , BARANCAY IX CITY CZVGAN ILOCOS SUR PHL Zw'}
+image:  NAT_ID_569.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3019-8540-3763-2934', 'lastName': 'LUMAUIG', 'firstName': 'PRINCE', 'middleName': 'MARTINEZ', 'dateOfBirth': 'january 28. 2001', 'Address': "PUROK 7. ANNAFUNAN' TUMAUINI ISABELA (Oo"}
+image:  NAT_ID_70.jpeg
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3041.7934-0356-2052', 'firstName': '"iddle', 'dateOfBirth': 'If found; pleose'}
+image:  NAT_ID_210.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3568-9082-3721-7697', 'lastName': 'TULIAO', 'firstName': 'JOMAR', 'middleName': 'TABUNAN', 'dateOfBirth': 'february 24, 1984', 'Address': 'FEBRUARY 24, 1984 PUROK 07, PARADISE GONZAGA CAGAYAN PHL ~ L Vorno ;F Twioo Vorar - Twiab Jsmay/" Twliad'}
+image:  NAT_ID_355.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6029-1354-9680-4716', 'lastName': 'FLORES', 'firstName': 'ARJAY', 'dateOfBirth': 'may 20, 2000', 'Address': 'PUROK RANG-Av CABATUAN ISALELA PHL +'}
+image:  NAT_ID_181.jpeg
+image:  NAT_ID_494.jpeg
+image:  NAT_ID_247.jpeg
+4718-2659-3142-0548
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4718-2659-3142-0548', 'dateOfBirth': 'november 29, 1994'}
+image:  NAT_ID_27.jpeg
+rotating image...
+ijentificatiori
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784', 'firstName': 'EDWIN'}
+image:  NAT_ID_302.jpeg
+icentification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3754-8314-5206-2932', 'firstName': 'EDUARD', 'middleName': 'SIBAYAN', 'dateOfBirth': 'july 22, 1988', 'Address': 'PUROK 3 SAN LUIS ROXAS, ISABELA'}
+image:  NAT_ID_375.jpeg
+rotating image...
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5643-6980-9576-0589', 'dateOfBirth': 'january 27. 1969'}
+image:  NAT_ID_50.jpeg
+rotating image...
+ijentificatiori
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784', 'firstName': 'EDWIN'}
+image:  NAT_ID_230.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2649-2790-1386-7120', 'lastName': 'VICENTE', 'firstName': 'MARLYN', 'middleName': 'BASANES', 'dateOfBirth': 'ANUARY 18, 1978', 'Address': 'ROSARIO ST. BARANGAY 1, SAN JOSE, ANTIQUE Ca _s ~a_Eu ~0&u '}
+image:  NAT_ID_119.jpeg
+cerd
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6418-42574317-463'}
+image:  NAT_ID_549.jpeg
+identilicalion
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5379-5162-7312-0974', 'firstName': 'FRANCIA', 'dateOfBirth': 'september 20, 1985', 'Address': 'ZOHE 2 C-BUG-@ MLAOR CAMARINES SUR PHL'}
+image:  NAT_ID_322.jpeg
+image:  NAT_ID_288.jpeg
+image:  NAT_ID_267.jpeg
+image:  NAT_ID_13(1).jpeg
+rotating image...
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784-6358-3671-854', 'middleName': 'APAL', 'dateOfBirth': 'november 17, 1977'}
+image:  NAT_ID_334.jpeg
+image:  NAT_ID_11.jpeg
+rotating image...
+card
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784-6358-3671-854', 'middleName': 'APAL', 'dateOfBirth': 'november 17, 1977'}
+image:  NAT_ID_271.jpeg
+2376-0785-7126-3924
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2376-0785-7126-3924', 'dateOfBirth': 'august 28_ 2000'}
+image:  NAT_ID_158.jpeg
+image:  NAT_ID_508.jpeg
+6391-5760-4261-9304
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6391-5760-4261-9304'}
+image:  NAT_ID_363.jpeg
+image:  NAT_ID_127(1).jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3263-5279-3407-6259', 'firstName': 'CHERRY', 'middleName': 'RIGO', 'dateOfBirth': 'october 21, 1997', 'Address': 'PIROK 5, PALIUEC , CITY OF ILAGAN (SABELA F (6ko'}
+image:  NAT_ID_226.jpeg
+8169-2037-6409-8495
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '8169-2037-6409-8495', 'dateOfBirth': 'april 08, 1994'}
+image:  NAT_ID_46.jpeg
+rotating image...
+ijentificatiori
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784', 'firstName': 'EDWIN'}
+image:  NAT_ID_318.jpeg
+image:  NAT_ID_461.jpeg
+5761-5942-9139-7837
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5761-5942-9139-7837', 'firstName': 'Iadule', 'dateOfBirth': 'february 16, 1988'}
+image:  NAT_ID_524.jpeg
+5297-4570-3986-0932
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5297-4570-3986-0932', 'dateOfBirth': 'may 19 1983'}
+image:  NAT_ID_174.jpeg
+image:  NAT_ID_1.jpeg
+identificallon
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4607-9018-6259.6732', 'lastName': 'AGNA', 'firstName': 'CORE', 'middleName': 'PENAFLORIDA', 'dateOfBirth': 'january 19 2000'}
+image:  NAT_ID_85.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6245-0610-469217639', 'lastName': 'MARCOS', 'firstName': 'ROY', 'middleName': 'JUEN', 'dateOfBirth': 'CiTY OF OLONGAPO', 'Address': 'PURO/ 2, NANCAPUGAN; SAN QUINTIN; PANGASINAN IrttKz Tp AtawnE Pagkakaloob/Dote ofissue 21 NOVEMBER 2021 Kasarian/Sex MALE Uring Dugol Blood Type UNKNOWN Kalagayang Sibil/Marital Status SINGLE Lugar ng Kapanganakan/Place of Birth CiTY OF OLONGAPO ZAMBALES If found, please return t0 the nearest PSA Office. WWWpsa gov ph 4H1674208'}
+image:  NAT_ID_436.jpeg
+6935-1409-2089-5267
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '6935-1409-2089-5267', 'dateOfBirth': 'may 08, 1998'}
+image:  NAT_ID_123.jpeg
+550]-8414-790}-6114
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '550]-8414-790}-6114'}
+image:  NAT_ID_573.jpeg
+image:  NAT_ID_359.jpeg
+image:  NAT_ID_93.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5063-5709-2519-7546', 'middleName': 'CASQUEJO', 'dateOfBirth': 'november 10, 1992'}
+image:  NAT_ID_420.jpeg
+identification
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '', 'lastName': 'BUTIAL', 'firstName': 'JUDITH', 'middleName': 'BENITEZ', 'dateOfBirth': 'july 20, 1980'}
+image:  NAT_ID_565.jpeg
+2712-0354-6326-5396
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '2712-0354-6326-5396', 'dateOfBirth': 'september 07 ,'}
+image:  NAT_ID_135.jpeg
+rotating image...
+image:  NAT_ID_477.jpeg
+5902-3943-0693-8462
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5902-3943-0693-8462', 'dateOfBirth': 'february 26 1999'}
+image:  NAT_ID_162.jpeg
+image:  NAT_ID_498.jpeg
+image:  NAT_ID_532.jpeg
+4382-7006-4064-2861
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4382-7006-4064-2861', 'dateOfBirth': 'october 26, 1993'}
+image:  NAT_ID_399.jpeg
+rotating image...
+5980-3462-0764-8932
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '5980-3462-0764-8932', 'dateOfBirth': 'february 10, 1982'}
+image:  NAT_ID_53.jpeg
+rotating image...
+ijentificatiori
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '4784', 'firstName': 'EDWIN'}
+image:  NAT_ID_233.jpeg
+3078-2591-8496-6836
+This is ID Card
+{'idType': 'Philipine Identification Card', 'idNumber': '3078-2591-8496-6836', 'dateOfBirth': 'july 231881 ULue'}
+image:  NAT_ID_376.jpeg
+2852-0824-9025-1347
+This is ID Card
+Traceback (most recent call last):
+  File "/Users/macbookpro/Desktop/Projects/Machine_Learning_Projects/ID_Card_Info_Extractor/easyocr_model.py", line 116, in <module>
+    found,valid = read_text(gray)
+  File "/Users/macbookpro/Desktop/Projects/Machine_Learning_Projects/ID_Card_Info_Extractor/easyocr_model.py", line 92, in read_text
+    id_card([data],word_cap)
+  File "/Users/macbookpro/Desktop/Projects/Machine_Learning_Projects/ID_Card_Info_Extractor/easyocr_model.py", line 46, in id_card
+    id_data["lastName"] = new_line[index_count+2]
+IndexError: list index out of range
+macbookpro@Macbooks-MacBook-Pro ID_Card_Info_Extractor % 
